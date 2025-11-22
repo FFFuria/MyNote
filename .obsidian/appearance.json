@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "accentColor": "#8a5cf5",
+  "enabledCssSnippets": [
+    "math"
+  ]
+}

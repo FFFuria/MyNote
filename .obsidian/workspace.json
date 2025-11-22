@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "55884d928697c2d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0837d40a8c699a31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e80abe4339b74d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyObsidianNote/路径规划算法/路径规划算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "路径规划算法"
+            }
+          },
+          {
+            "id": "dcdf5f3fd3a211bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyObsidianNote/路径规划算法/轨迹跟踪控制.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "轨迹跟踪控制"
+            }
+          },
+          {
+            "id": "71400f42976d1af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyObsidianNote/MyObsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MyObsidian"
+            }
+          },
+          {
+            "id": "0abeb5553776934f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyObsidianNote/深度学习/鱼书/深度学习入门基于Python的理论与实现要点笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "深度学习入门基于Python的理论与实现要点笔记"
+            }
+          },
+          {
+            "id": "71ad12c80366f03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyObsidianNote/路径规划算法/全局路径规划算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "全局路径规划算法"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b82ec27cc80fc50",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5ff39f895ff18a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86e1f12c4c6efbfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "de1f666d816f3d9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9f1380b84d31c46a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3a235993970b6f35",
+    "type": "split",
+    "children": [
+      {
+        "id": "73bbec8f6c8c7ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d245d9c7e8fa3336",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MyObsidianNote/深度学习/鱼书/深度学习入门基于Python的理论与实现要点笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "深度学习入门基于Python的理论与实现要点笔记 的反向链接列表"
+            }
+          },
+          {
+            "id": "af86e9dba62835bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MyObsidianNote/深度学习/鱼书/深度学习入门基于Python的理论与实现要点笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "深度学习入门基于Python的理论与实现要点笔记 的出链列表"
+            }
+          },
+          {
+            "id": "ad8ed67c77b67793",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6b1ae50ff59a0954",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MyObsidianNote/MyObsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "MyObsidian 的大纲"
+            }
+          },
+          {
+            "id": "d14b8cd6e6c18214",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "71400f42976d1af0",
+  "lastOpenFiles": [
+    "MyObsidianNote/课内课程.md",
+    "MyObsidianNote/深度学习/深度学习.md",
+    "MyObsidianNote/深度学习/鱼书/深度学习入门基于Python的理论与实现要点笔记.md",
+    "MyObsidianNote/大学物理/大学物理下册（咸蛋黄版简易笔记）.md",
+    "MyObsidianNote/路径规划算法/局部路径规划算法.md",
+    "MyObsidianNote/路径规划算法/轨迹跟踪控制.md",
+    "MyObsidianNote/路径规划算法/assets/轨迹跟踪控制/file-20251119110543551.png",
+    "MyObsidianNote/路径规划算法/assets/轨迹跟踪控制/file-20251119105209880.png",
+    "MyObsidianNote/路径规划算法/assets/轨迹跟踪控制/file-20251119105110688.png",
+    "MyObsidianNote/路径规划算法/assets/轨迹跟踪控制/file-20251119104636165.png",
+    "MyObsidianNote/路径规划算法/assets/轨迹跟踪控制",
+    "MyObsidianNote/路径规划算法/路径规划算法.md",
+    "MyObsidianNote/路径规划算法/全局路径规划算法.md",
+    "MyObsidianNote/路径规划算法/assets/局部路径规划算法/file-20251119095600138.png",
+    "MyObsidianNote/路径规划算法/assets/局部路径规划算法/file-20251119094848302.png",
+    "MyObsidianNote/路径规划算法/assets/局部路径规划算法/file-20251119094833600.png",
+    "MyObsidianNote/路径规划算法/assets/局部路径规划算法/file-20251119091358181.png",
+    "MyObsidianNote/路径规划算法/assets/局部路径规划算法/file-20251118221006549.png",
+    "MyObsidianNote/路径规划算法/assets/局部路径规划算法/file-20251118220910964.png",
+    "MyObsidianNote/路径规划算法/assets/局部路径规划算法",
+    "MyObsidianNote/复变函数/1 复数与复变函数.md",
+    "MyObsidianNote/复变函数/复变函数.md",
+    "MyObsidianNote/复变函数/2 解析函数.md",
+    "MyObsidianNote/复变函数/3 复变函数的积分.md",
+    "MyObsidianNote/模拟电子技术基础 1/高等学校电子信息类专业系列教材  模拟电子技术基础_15260288.PDF.md",
+    "MyObsidianNote/模拟电子技术基础 1/assets/Pasted image 20250617110356.png.md",
+    "MyObsidianNote/模拟电子技术基础/0 模拟电子技术基础-目录.md",
+    "MyObsidianNote/模拟电子技术基础/4 集成运算放大器电路.md",
+    "MyObsidianNote/模拟电子技术基础/5 频率响应.md",
+    "MyObsidianNote/复变函数/0 复变函数-目录.md",
+    "MyObsidianNote/模拟电子技术基础 1/assets",
+    "MyObsidianNote/模拟电子技术基础 1",
+    "MyObsidianNote/MyObsidian.md",
+    "MyObsidianNote/模拟电子技术基础/模拟电子技术基础.md",
+    "MyObsidianNote/模拟电子技术基础/9 直流电源.md",
+    "MyObsidianNote/模拟电子技术基础/8 信号产生电路.md",
+    "MyObsidianNote/模拟电子技术基础/3 功率放大电路.md",
+    "MyObsidianNote/模拟电子技术基础/2 基本放大电路.md",
+    "MyObsidianNote/模拟电子技术基础/1 常用半导体元件.md",
+    "MyObsidianNote/复变函数/assets/复变函数与积分变换_冯复科.pdf",
+    "MyObsidianNote/复变函数/assets",
+    "MyObsidianNote/复变函数",
+    "MyObsidianNote/模拟电子技术基础/assets",
+    "MyObsidianNote/模拟电子技术基础",
+    "MyObsidianNote/大学物理/assets/大学物理下册（咸蛋黄版简易笔记）",
+    "未命名.canvas"
+  ]
+}
